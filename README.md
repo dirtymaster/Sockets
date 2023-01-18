@@ -1,7 +1,4 @@
-# Day 09 – Java bootcamp
-### Sockets
-
-*Takeaways: Today you will implement the basic mechanism of a client/server application based on Java—Sockets API*
+# Sockets
 
 ### Exercise 00 – Registration
 
